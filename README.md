@@ -1,2 +1,2 @@
-# youmovemobilityscooters
+# youmovemobility
 Rental of mobility scooters
